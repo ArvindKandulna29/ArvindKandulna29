@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @ArvindKandulna29
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unreal Engine 
-- 📫 How to reach me ...
+- 👀 I’m interested in :-
+- Game Development
+- 3D Modelling and Animations
+- 🌱 I’m currently learning - Unreal Engine (based on C++)
+- 📫 How to reach me (arvi8242@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
