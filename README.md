@@ -4,8 +4,7 @@
 - 3D Modelling and Animations
 - 🌱 I’m currently learning - Unreal Engine (based on C++)
 - 📫 How to reach me (arvi8242@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 ArvindKandulna29/ArvindKandulna29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
